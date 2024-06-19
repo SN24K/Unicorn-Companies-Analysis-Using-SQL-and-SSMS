@@ -1,7 +1,6 @@
 
-## Project Title
-
 # Unicorn Companies Analysis Using SQL and SQL Server Management Studio
+
 
 ## Overview
 
